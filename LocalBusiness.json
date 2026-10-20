@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Business Name",
+  "url": "https://example.com",
+  "telephone": "+00-000-0000000",
+  "image": "https://example.com/logo.png",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Street address",
+    "addressLocality": "City",
+    "addressRegion": "State",
+    "postalCode": "00000",
+    "addressCountry": "XX"
+  },
+  "openingHours": "Mo-Fr 09:00-18:00"
+}

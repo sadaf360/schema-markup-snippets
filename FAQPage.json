@@ -1,0 +1,9 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "Your question here?",
+    "acceptedAnswer": { "@type": "Answer", "text": "Your answer here." }
+  }]
+}

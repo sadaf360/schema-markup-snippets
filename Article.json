@@ -1,0 +1,8 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Article title",
+  "author": { "@type": "Person", "name": "Author Name" },
+  "datePublished": "2026-01-01",
+  "image": "https://example.com/image.jpg"
+}
